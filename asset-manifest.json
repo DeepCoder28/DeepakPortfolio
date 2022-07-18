@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DeepakPortfolio/static/css/main.1584d356.css",
-    "main.js": "/DeepakPortfolio/static/js/main.337acc4e.js",
+    "main.js": "/DeepakPortfolio/static/js/main.b658acf5.js",
     "static/media/cryptoHunter.png": "/DeepakPortfolio/static/media/cryptoHunter.3898e96958cbe4ecc2db.png",
     "static/media/QuoteGenerator.png": "/DeepakPortfolio/static/media/QuoteGenerator.c84f139ce65180713e05.png",
     "static/media/BlogApp.png": "/DeepakPortfolio/static/media/BlogApp.d493f0916bc26a83c929.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/DeepakPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/DeepakPortfolio/index.html",
     "main.1584d356.css.map": "/DeepakPortfolio/static/css/main.1584d356.css.map",
-    "main.337acc4e.js.map": "/DeepakPortfolio/static/js/main.337acc4e.js.map"
+    "main.b658acf5.js.map": "/DeepakPortfolio/static/js/main.b658acf5.js.map"
   },
   "entrypoints": [
     "static/css/main.1584d356.css",
-    "static/js/main.337acc4e.js"
+    "static/js/main.b658acf5.js"
   ]
 }
